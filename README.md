@@ -1,4 +1,4 @@
-# Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries [[paper]](https://github.com/Du-Songtao/Towards-fast-embedded-moving-horizon-state-of-charge-estimation-for-lithium-ion-batteries/edit/main/README.md)
+# Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries [[paper]](https://www.sciencedirect.com/science/article/pii/S2352152X23034230)
 Wan, Yiming, Songtao Du, Jiayu Yan, and Zhuo Wang. 
 
 "Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries." 
