@@ -1,7 +1,7 @@
 # Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries (Journal of Energy Storage)
 The Matlab/Octave code used in the manuscript "Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries".
 
-## Steps to reproduce
+## Steps to run
 * Open Matlab or Octave.
 * Set ./code_mhe_submitted/matlabcode or  ./code_mhe_submitted/octavecode as the current working directory.
 * Run the main_ekf.m to implement the joint EKF.
