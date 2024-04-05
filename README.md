@@ -1,5 +1,5 @@
 # Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries 
-The Matlab/Octave code used in the manuscript "Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries" in Journal of Energy Storage
+The Matlab/Octave code used in the manuscript "Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries" in **Journal of Energy Storage**
 
 ## Steps to run
 * Open Matlab or Octave.
