@@ -5,6 +5,12 @@ Wan, Yiming, Songtao Du, Jiayu Yan, and Zhuo Wang.
 
 Journal of Energy Storage 78 (2024): 110024.
 
+## Keywords
+* State-of-charge estimation
+* Moving horizon estimation
+* Real-time computation
+* Lithium-ion battery
+
 ## Steps to run
 * Open Matlab or Octave.
 * Set ./matlabcode or  ./octavecode as the current working directory.
@@ -12,9 +18,6 @@ Journal of Energy Storage 78 (2024): 110024.
 * Run the main_optimalMHE.m to implement the optimal jMHE.
 * Run the main_fastMHE.m to implement the fast jMHE.
 * Run the main_fasterMHE.m to implement the fast jMHE with ETR.
-
-## Institutions
-Huazhong University of Science and Technology
 
 ## Citation
 If you find our work useful in your research or publications, please consider citing:
@@ -30,8 +33,4 @@ If you find our work useful in your research or publications, please consider ci
 }
 ```
 
-## Keywords
-* State-of-charge estimation
-* Moving horizon estimation
-* Real-time computation
-* Lithium-ion battery
+
