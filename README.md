@@ -13,6 +13,7 @@ The Matlab/Octave code used in the manuscript "Towards fast embedded moving hori
 Huazhong University of Science and Technology
 
 ## BibTeX
+```
 @article{wan2024towards,
   title={Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries},
   author={Wan, Yiming and Du, Songtao and Yan, Jiayu and Wang, Zhuo},
@@ -22,9 +23,10 @@ Huazhong University of Science and Technology
   year={2024},
   publisher={Elsevier}
 }
+```
 
 ## Keywords
-State-of-charge estimation
-Moving horizon estimation
-Real-time computation
-Lithium-ion battery
+* State-of-charge estimation
+* Moving horizon estimation
+* Real-time computation
+* Lithium-ion battery
