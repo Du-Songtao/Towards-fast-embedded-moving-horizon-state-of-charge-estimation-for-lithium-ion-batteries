@@ -1,6 +1,8 @@
 # Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries 
 **"Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries"** in **Journal of Energy Storage**
+
 YimingWan, SongtaoDu, JiayuYan, ZhuoWang
+
 Any questions or discussions are welcomed!
 
 ## Steps to run
