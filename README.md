@@ -1,10 +1,6 @@
 # Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries 
 **"Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries"** in **Journal of Energy Storage**
 
-YimingWan, SongtaoDu, JiayuYan, ZhuoWang
-
-Any questions or discussions are welcomed!
-
 ## Steps to run
 * Open Matlab or Octave.
 * Set ./matlabcode or  ./octavecode as the current working directory.
@@ -16,7 +12,7 @@ Any questions or discussions are welcomed!
 ## Institutions
 Huazhong University of Science and Technology
 
-## BibTeX
+## Citation
 If you find our work useful in your research or publications, please consider citing:
 ```
 @article{wan2024towards,
