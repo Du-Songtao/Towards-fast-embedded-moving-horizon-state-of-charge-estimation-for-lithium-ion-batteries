@@ -3,7 +3,7 @@ The Matlab/Octave code used in the manuscript "Towards fast embedded moving hori
 
 ## Steps to run
 * Open Matlab or Octave.
-* Set ./code_mhe_submitted/matlabcode or  ./code_mhe_submitted/octavecode as the current working directory.
+* Set ./matlabcode or  ./octavecode as the current working directory.
 * Run the main_ekf.m to implement the joint EKF.
 * Run the main_optimalMHE.m to implement the optimal jMHE.
 * Run the main_fastMHE.m to implement the fast jMHE.
