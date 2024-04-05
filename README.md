@@ -1,6 +1,6 @@
 # Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries 
 ```
-The Matlab/Octave code used in the manuscript **"Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries"** in **Journal of Energy Storage**
+**"Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries"** in **Journal of Energy Storage**
 YimingWan, SongtaoDu, JiayuYan, ZhuoWang
 ```
 Any questions or discussions are welcomed!
