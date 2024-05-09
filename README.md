@@ -1,6 +1,6 @@
 # Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries [[paper]](https://www.sciencedirect.com/science/article/pii/S2352152X23034230)
 
-<center><img src="accuracy.jpg" width="30%"></center>
+<center><img src="accuracy.jpg" width="50%"></center>
 
 Wan, Yiming, Songtao Du, Jiayu Yan, and Zhuo Wang. 
 
