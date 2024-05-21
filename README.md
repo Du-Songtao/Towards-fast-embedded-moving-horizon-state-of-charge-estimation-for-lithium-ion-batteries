@@ -26,6 +26,8 @@ We propose a fast moving horizon SOC estimation algorithm to retain the benefits
 * Run the main_optimalMHE.m to implement the optimal jMHE.
 * Run the main_fastMHE.m to implement the fast jMHE.
 * Run the main_fasterMHE.m to implement the fast jMHE with ETR.
+### Output the estimation curve of different estimation algorithms
+* Run the plot_est.m
 
 ## Citation
 If you find our work useful in your research or publications, please consider citing:
